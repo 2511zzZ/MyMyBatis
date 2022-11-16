@@ -1,2 +1,2 @@
 # MyMyBatis
-自己实现的一个简易的MyBatis框架
+一个简易的 Spring × MyBatis 框架
